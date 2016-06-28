@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [browsers\edge\available-policies.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/00c69910bc79c01ae4581cdb964c031016300798/browsers/edge/available-policies.md) | InSyncHandedBackSuccess | [Details](#b915c9e11670405a5ccb2acc0e927f2679f420634)
 
 ## Item Details
-##### <a name='b915c9e11670405a5ccb2acc0e927f2679f420634'></a> Source: [browsers\edge\available-policies.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/00c69910bc79c01ae4581cdb964c031016300798/browsers/edge/available-policies.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [browsers\edge\available-policies.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs.zh-cn/blob/1b11c55d26cf27756b70b79678d53c63d199664d/browsers/edge/available-policies.md)
-* Handoff File: [available-policies.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/339d38b607783ab4395481a3e95f9b18ed0040ab/ol-handoff/en-us.win-cpub-itpro-docs/browsers/edge/available-policies.xlf)
-* Handoff Datetime: 2016-06-28 09:07:17
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [available-policies.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/61f0f488dc760e8d3d4ff0312b04934522b981c0/ol-handback/zh-cn.win-cpub-itpro-docs/browsers/edge/available-policies.xlf)
-* Handback Datetime: 2016-06-28 09:37:59
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
