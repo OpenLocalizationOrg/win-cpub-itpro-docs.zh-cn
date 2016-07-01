@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/7535186d754ee37d8f4e30d3582c0d2e047e3dd2/demo/NewFile.md) | HandedOffSuccess | [Details](#8174832ead88eb419ee8ceb47394a67d9d522e37201)
 
 ## Item Details
+##### <a name='8174832ead88eb419ee8ceb47394a67d9d522e37201'></a> Source: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/7535186d754ee37d8f4e30d3582c0d2e047e3dd2/demo/NewFile.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/e41ba939881bafbd9507a1f8b62fc90b58a61ce3/ol-handoff/en-us.win-cpub-itpro-docs/demo/NewFile.xlf)
+* Handoff Datetime: 2016-07-01 01:27:04
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
