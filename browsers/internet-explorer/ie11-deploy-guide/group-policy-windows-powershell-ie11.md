@@ -1,0 +1,42 @@
+---
+description: Overview about how Group Policy works with Windows Powershell and Internet Explorer 11
+ms.assetid: e3607cde-a498-4e04-9daa-b331412967fc
+author: eross-msft
+ms.prod: ie11
+ms.mktglfcycl: deploy
+ms.sitesec: library
+ms.pagetype: security
+title: Group Policy, Windows Powershell, and Internet Explorer 11 (Internet Explorer 11 for IT Pros)
+translationtype: Human Translation
+ms.sourcegitcommit: 0164c7a3150be29ce2e1077c4746dec0ab6463b6
+ms.openlocfilehash: fba0dbe9ec326079262bac0072c5a75461fcaa0f
+
+---
+
+# Group Policy, Windows Powershell, and Internet Explorer 11
+Your domain-joined Group Policy Objects (GPOs) can use any of Group Policy-related “cmdlets” that run within Windows PowerShell.
+
+Each cmdlet is a single-function command-line tool that can:
+
+-   Create, edit, remove, back up, and import GPOs.
+
+-   Create, update, and remove Group Policy links.
+
+-   Set inheritance flags and permissions on organizational units (OU) and domains.
+
+-   Configure registry-based policy settings and registry settings for Group Policy preferences.
+
+For more info about PowerShell and Group Policy management, see [Use Windows PowerShell to Manage Group Policy](http://go.microsoft.com/fwlink/p/?LinkId=276828).
+
+ 
+
+ 
+
+
+
+
+
+
+<!--HONumber=Jun16_HO4-->
+
+

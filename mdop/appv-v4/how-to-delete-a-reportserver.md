@@ -1,0 +1,54 @@
+---
+title: How to Delete a Report
+description: How to Delete a Report
+author: jamiejdt
+ms.assetid: 53350b71-1fb5-4f7e-a684-9ea1116c5c3f
+ms.pagetype: mdop, appcompat, virtualization
+ms.mktglfcycl: deploy
+ms.sitesec: library
+ms.prod: w8
+translationtype: Human Translation
+ms.sourcegitcommit: 2d1f98a24d9330d6b3bce488b2cac6ac11b5e4bf
+ms.openlocfilehash: 1c1ba69290eba1c770d3e25b75922b69b41da51b
+
+---
+
+
+# How to Delete a Report
+
+
+From the Application Virtualization Server Management Console, the process for deleting a report is the same regardless of the report type.
+
+**To delete a report**
+
+1.  Click the **Reports** node to expand the list of reports.
+
+2.  Right-click the desired report (either in the **Reports** node or the **Results** pane), and select **Delete**.
+
+## Related topics
+
+
+[Application Virtualization Report Types](application-virtualization-report-types.md)
+
+[How to Create a Report](how-to-create-a-reportserver.md)
+
+[How to Export a Report](how-to-export-a-reportserver.md)
+
+[How to Print a Report](how-to-print-a-reportserver.md)
+
+[How to Run a Report](how-to-run-a-reportserver.md)
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+<!--HONumber=Jun16_HO4-->
+
+

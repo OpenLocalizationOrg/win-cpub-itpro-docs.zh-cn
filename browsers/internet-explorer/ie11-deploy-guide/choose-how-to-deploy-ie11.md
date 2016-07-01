@@ -1,0 +1,34 @@
+---
+description: Choose how to deploy Internet Explorer 11 (IE11)
+ms.assetid: 21b6a301-c222-40bc-ad0b-27f66fc54d9d
+author: eross-msft
+ms.prod: ie11
+ms.mktglfcycl: deploy
+ms.sitesec: library
+title: Choose how to deploy Internet Explorer 11 (IE11) (Internet Explorer 11 for IT Pros)
+translationtype: Human Translation
+ms.sourcegitcommit: 0164c7a3150be29ce2e1077c4746dec0ab6463b6
+ms.openlocfilehash: a5a70c3b38b00a867110c99d466b9585e526ea19
+
+---
+
+# Choose how to deploy Internet Explorer 11 (IE11)
+In this section, you can learn about how to deploy your custom version of Internet Explorer using Automatic Version Synchronization (AVS) or using your software distribution tools.
+
+## In this section
+|   Topic                                                      | Description                                            |
+|------------------------------------------------------------- | ------------------------------------------------------ |
+|[Deploy IE11 using Automatic Version Synchronization (AVS)](deploy-ie11-using-automatic-version-synchronization-avs.md)  |Guidance about how to deploy your custom browser packages using Automatic Version Synchronization (AVS).  |
+|[Deploy IE11 using software distribution tools](deploy-ie11-using-software-distribution-tools.md)  |Guidance about how to deploy your custom browser packages using System Center 2012 R2, Windows Server Update Services (WSUS), Group Policy software installation, or Microsoft Deployment toolkit (MDT).  |
+ 
+
+ 
+
+
+
+
+
+
+<!--HONumber=Jun16_HO4-->
+
+

@@ -1,0 +1,49 @@
+---
+title: Properties Tab
+description: Properties Tab
+author: jamiejdt
+ms.assetid: 6ff20678-6766-4f0d-8bbb-f19b224682a1
+ms.pagetype: mdop, appcompat, virtualization
+ms.mktglfcycl: deploy
+ms.sitesec: library
+ms.prod: w8
+translationtype: Human Translation
+ms.sourcegitcommit: 2d1f98a24d9330d6b3bce488b2cac6ac11b5e4bf
+ms.openlocfilehash: e96f4a6aec0a2691e87ebf926ac488266ddbd584
+
+---
+
+
+# Properties Tab
+
+
+The **Properties** tab provides basic statistical information about a sequenced application package.
+
+## In This Section
+
+
+<a href="" id="about-the-properties-tab"></a>[About the Properties Tab](about-the-properties-tab.md)  
+Provides general information about the **Properties** tab.
+
+<a href="" id="how-to-change-package-properties"></a>[How to Change Package Properties](how-to-change-package-properties.md)  
+Provides the procedure to change package properties using the **Properties** tab.
+
+## Related topics
+
+
+[Sequencer Console](sequencer-console.md)
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+<!--HONumber=Jun16_HO4-->
+
+

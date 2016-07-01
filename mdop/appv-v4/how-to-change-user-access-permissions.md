@@ -1,0 +1,55 @@
+---
+title: How to Change User Access Permissions
+description: How to Change User Access Permissions
+author: jamiejdt
+ms.assetid: 21b60cc7-5395-401e-a374-6ef0d58872b7
+ms.pagetype: mdop, appcompat, virtualization
+ms.mktglfcycl: deploy
+ms.sitesec: library
+ms.prod: w8
+translationtype: Human Translation
+ms.sourcegitcommit: 2d1f98a24d9330d6b3bce488b2cac6ac11b5e4bf
+ms.openlocfilehash: 9852fa468492d270c41c39066a4cfe3c5ed5405a
+
+---
+
+
+# How to Change User Access Permissions
+
+
+Use the following procedure to change user access permissions in the Application Virtualization Client Management Console.
+
+**Note**  
+Before changing users access permissions, ensure that any permissions changes are consistent with the organization's guidelines for granting user access.
+
+ 
+
+**To change user access permissions**
+
+1.  Right-click the **Application Virtualization** node, and select **Properties** from the pop-up menu.
+
+2.  On the **Permissions** tab on the **Properties** dialog box, scroll through the list of permissions and select the check boxes that correspond to the permissions you want to grant to users of this computer. Administrators have access to all the permissions regardless of the settings on this tab.
+
+3.  Click **OK** or **Apply** to change the setting.
+
+## Related topics
+
+
+[How to Configure the Client in the Application Virtualization Client Management Console](how-to-configure-the-client-in-the-application-virtualization-client-management-console.md)
+
+[User Access Permissions in Application Virtualization Client](user-access-permissions-in-application-virtualization-client.md)
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+<!--HONumber=Jun16_HO4-->
+
+
