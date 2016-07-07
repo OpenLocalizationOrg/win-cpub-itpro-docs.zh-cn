@@ -6,19 +6,24 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/7535186d754ee37d8f4e30d3582c0d2e047e3dd2/demo/NewFile.md) | HandedOffSuccess | [Details](#8174832ead88eb419ee8ceb47394a67d9d522e37201)
+ [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/34ee23d0a9e24b1fc5809c6656c45d808f5d75aa/demo/NewFile.md) | OutofSyncHandedBackSuccess | [Details](#d395213630a6f16f3fabac4a4ef1cca5b454119f201)
 
 ## Item Details
-##### <a name='8174832ead88eb419ee8ceb47394a67d9d522e37201'></a> Source: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/7535186d754ee37d8f4e30d3582c0d2e047e3dd2/demo/NewFile.md)
-* Status: HandedOffSuccess
+##### <a name='d395213630a6f16f3fabac4a4ef1cca5b454119f201'></a> Source: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/34ee23d0a9e24b1fc5809c6656c45d808f5d75aa/demo/NewFile.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/e41ba939881bafbd9507a1f8b62fc90b58a61ce3/ol-handoff/en-us.win-cpub-itpro-docs/demo/NewFile.xlf)
-* Handoff Datetime: 2016-07-01 01:27:04
+* Handoff File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/d54253fc27c9173b034f56e96a4cfc62ad012645/ol-handoff/en-us.win-cpub-itpro-docs/demo/NewFile.xlf)
+* Handoff Datetime: 2016-07-07 06:05:00
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs.zh-cn/blob/bc429ce52c88116ad0adf98eb0b4ad7bf3071c1e/demo/NewFile.md)
+* Current Handback File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/0b2c1bb1d091d6af9602217aa9c69a0a70e2edae/ol-handback/zh-cn.win-cpub-itpro-docs/demo/NewFile.xlf)
+* Current Handback Datetime: 2016-07-01 05:27:52
+* Bilingual File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/0b2c1bb1d091d6af9602217aa9c69a0a70e2edae/ol-handback/zh-cn.win-cpub-itpro-docs/demo/NewFile.xlf)
+* Bilingual Datetime: 2016-07-01 05:32:51
 * [Back to Top](#report-top)
 
 
