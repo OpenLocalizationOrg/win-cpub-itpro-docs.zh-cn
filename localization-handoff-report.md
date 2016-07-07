@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/ebb7e7f3500b09c063e6c5dcd776949f15d581c3/demo/NewFile.md) | OutofSyncHandedBackSuccess | [Details](#063275c782bafea67b8beed9118101c4dc4d8d83201)
+ [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/fe6af4ec79e344ada9402f5a59814ac56a0b1404/demo/NewFile.md) | OutofSyncHandedBackSuccess | [Details](#df22c891405129ee605e20c317639fb3a4171d9a201)
 
 ## Item Details
-##### <a name='063275c782bafea67b8beed9118101c4dc4d8d83201'></a> Source: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/ebb7e7f3500b09c063e6c5dcd776949f15d581c3/demo/NewFile.md)
+##### <a name='df22c891405129ee605e20c317639fb3a4171d9a201'></a> Source: [demo\NewFile.md](https://github.com/OpenLocalizationOrg/win-cpub-itpro-docs/blob/fe6af4ec79e344ada9402f5a59814ac56a0b1404/demo/NewFile.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/7b2697139603fc74b6f12fe049fe1cd46ebf19ba/ol-handoff/en-us.win-cpub-itpro-docs/demo/NewFile.xlf)
-* Handoff Datetime: 2016-07-07 08:25:07
+* Handoff File: [NewFile.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/2d35db52b36123e8a3534c6e3c9bc0698fb1a92c/ol-handoff/en-us.win-cpub-itpro-docs/demo/NewFile.xlf)
+* Handoff Datetime: 2016-07-07 08:35:17
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
