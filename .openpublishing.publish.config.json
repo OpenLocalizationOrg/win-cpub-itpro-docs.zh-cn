@@ -1,22 +1,27 @@
 {
-  "build_entry_point": "",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "surface",
-      "build_source_folder": null,
-      "build_output_subfolder": "/itpro",
-      "build_entry_point": "op.ps1",
+      "build_source_folder": "devices/surface",
+      "build_output_subfolder": "itpro",
       "locale": "zh-cn",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
-      }
+      },
+      "build_entry_point": "op"
     }
   ],
-  "notification_subscribers": null
+  "notification_subscribers": [
+    "brianlic@microsoft.com"
+  ],
+  "branches_to_filter": [
+    ""
+  ],
+  "skip_source_output_uploading": false
 }
